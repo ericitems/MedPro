@@ -1,0 +1,27 @@
+{
+  "name": "medpro",
+  "version": "1.0.0",
+  "description": "\"MedPro: Your Comprehensive Hospital Management Solution. Simplify appointment scheduling, securely store patient medical records, and streamline prescription management for healthcare providers and their patients.\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericitems/MedPro.git"
+  },
+  "keywords": [
+    "Hospital",
+    "Management",
+    "System"
+  ],
+  "author": "C.U.P.I.E",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericitems/MedPro/issues"
+  },
+  "homepage": "https://github.com/ericitems/MedPro#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
