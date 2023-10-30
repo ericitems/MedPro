@@ -464,7 +464,7 @@
 /* OUR SERVICES */
 .services {
   width: 100%;
-  height: 950px;
+  height: 900px;
   /* border: 2px dashed khaki; */
   padding-top: 30px;
   margin-top: 50px;
@@ -486,7 +486,7 @@
 
 .serviceBoxes {
   width: 100%;
-  height: 83%;
+  height: 80%;
   /* border: 2px solid #112; */
   margin-top: 30px;
   position: relative;
@@ -509,8 +509,8 @@
 }
 
 .servBox {
-  width: 30%;
-  height: 45%;
+  width: 28%;
+  height: 50%;
   /* border: 2px solid red; */
   display: inline-flex;
   margin-bottom: 50px;
